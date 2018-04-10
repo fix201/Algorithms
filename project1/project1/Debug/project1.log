@@ -1,0 +1,13 @@
+﻿  SortingAlgorithms.cpp
+c:\users\incognito\documents\school documents\4. senior\algorithms\project1\project1\sortingalgorithms.cpp(122): warning C4018: '<': signed/unsigned mismatch
+c:\users\incognito\documents\school documents\4. senior\algorithms\project1\project1\sortingalgorithms.cpp(123): warning C4018: '>=': signed/unsigned mismatch
+c:\users\incognito\documents\school documents\4. senior\algorithms\project1\project1\sortingalgorithms.cpp(123): warning C4018: '<': signed/unsigned mismatch
+c:\users\incognito\documents\school documents\4. senior\algorithms\project1\project1\sortingalgorithms.cpp(148): warning C4018: '<': signed/unsigned mismatch
+c:\users\incognito\documents\school documents\4. senior\algorithms\project1\project1\sortingalgorithms.cpp(164): warning C4018: '<': signed/unsigned mismatch
+c:\users\incognito\documents\school documents\4. senior\algorithms\project1\project1\sortingalgorithms.cpp(182): warning C4018: '<': signed/unsigned mismatch
+c:\users\incognito\documents\school documents\4. senior\algorithms\project1\project1\sortingalgorithms.cpp(261): error C2664: 'void SortingAlgorithms::insertionSortSum(std::vector<double,std::allocator<_Ty>> &)': cannot convert argument 1 from 'std::vector<double,std::allocator<_Ty>>' to 'std::vector<double,std::allocator<_Ty>> &'
+          with
+          [
+              _Ty=double
+          ]
+  c:\users\incognito\documents\school documents\4. senior\algorithms\project1\project1\sortingalgorithms.cpp(261): note: A non-const reference may only be bound to an lvalue
